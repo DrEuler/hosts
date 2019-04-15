@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
-# Last modified: Wed, 06 Mar 2019, 22:54 UTC+01
-# Version: 2019.3.6.3
+# Last modified: Mon, 08 Apr 2019, 11:08 UTC+02
+# Version: 2019.4.8.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -44,6 +44,7 @@
 0.0.0.0 alisto-pozyczki.pl
 0.0.0.0 allfiles.pl
 0.0.0.0 alloversuccess.com
+0.0.0.0 alwetagd.pl
 0.0.0.0 androidgameshacks.com
 0.0.0.0 ankiety-konsumenckie.pl
 0.0.0.0 antyspam.net
@@ -110,6 +111,7 @@
 0.0.0.0 browsergames2018.com
 0.0.0.0 browser-tools.systems
 0.0.0.0 brumflix.com
+0.0.0.0 btcprofitnow.pro
 0.0.0.0 bustcream-pro.com
 0.0.0.0 butypremium.pl
 0.0.0.0 buty-shoes4u.pl
@@ -126,6 +128,7 @@
 0.0.0.0 centrummarek.pl
 0.0.0.0 centrumnaukowe.eu
 0.0.0.0 centrumofert.com
+0.0.0.0 centrum-agd.net
 0.0.0.0 centrum-bezpiecznej-pozyczki.waw.pl
 0.0.0.0 centrum-napraw-swojego-laptopa.warszawa.pl
 0.0.0.0 centrum-pogotowie-komputerowe.warszawa.pl
@@ -161,7 +164,6 @@
 0.0.0.0 darmowe-ebooki.net
 0.0.0.0 das33.io
 0.0.0.0 dascoin.com
-0.0.0.0 dascoin.com.ng
 0.0.0.0 dascoin.com.pl
 0.0.0.0 dascoin.prowly.com
 0.0.0.0 dascoingroup.com
@@ -207,7 +209,6 @@
 0.0.0.0 ecoslimmer.pro
 0.0.0.0 eco-flow.pl
 0.0.0.0 ecpp.pl
-0.0.0.0 edukacja2018.pl
 0.0.0.0 egofiles.pw
 0.0.0.0 ekstrafilmy24.pl
 0.0.0.0 elektro24h.pl
@@ -221,10 +222,8 @@
 0.0.0.0 ermail.pl
 0.0.0.0 erunner.pl
 0.0.0.0 eskk.pl
-0.0.0.0 estream.com.pl
 0.0.0.0 euco.pl
 0.0.0.0 euresco.pl
-0.0.0.0 euroagd.net
 0.0.0.0 euronicspl.net
 0.0.0.0 europronet.net
 0.0.0.0 excelz.com
@@ -240,15 +239,12 @@
 0.0.0.0 fargofinanse.pl
 0.0.0.0 fastdownload.com.pl
 0.0.0.0 fasterfiles.net
-0.0.0.0 fbile.pl
-0.0.0.0 fbjaki.pl
 0.0.0.0 fb-iq.pl
 0.0.0.0 feed.engage.im
 0.0.0.0 fevitum.pl
 0.0.0.0 fforum.pisz.pl
 0.0.0.0 fhgfffdsf9.appspot.com
 0.0.0.0 file.co.pl
-0.0.0.0 filedownload.com.pl
 0.0.0.0 fileice.net
 0.0.0.0 fileman.pl
 0.0.0.0 fileoasis.net
@@ -270,7 +266,6 @@
 0.0.0.0 firesub.pl
 0.0.0.0 fit-buzz.com
 0.0.0.0 flamefolder.com
-0.0.0.0 flirtarepertutti.com
 0.0.0.0 fmg.pl
 0.0.0.0 foreverliving.com
 0.0.0.0 fortnitehack2018.com
@@ -307,7 +302,6 @@
 0.0.0.0 globalmagazine24.eu
 0.0.0.0 gojiberry500.pl
 0.0.0.0 gokano.com
-0.0.0.0 goldenmark.com
 0.0.0.0 goldsaver.pl
 0.0.0.0 goodmenonthego.com
 0.0.0.0 gotowkanadowod.pl
@@ -339,6 +333,7 @@
 0.0.0.0 hksfa.org
 0.0.0.0 holdenavenue.pl
 0.0.0.0 homeagd.in.net
+0.0.0.0 homeexpres.net
 0.0.0.0 homejailbreak.com
 0.0.0.0 hotokazje.com
 0.0.0.0 huit.re
@@ -351,8 +346,6 @@
 0.0.0.0 imperiumobuwia.pl
 0.0.0.0 inagrody.pl
 0.0.0.0 infolinia-kontakt-telefon.pl
-0.0.0.0 informatyk-dla-domu.pl
-0.0.0.0 informatyk-dla-firmy.pl
 0.0.0.0 instantgiftcodes.com
 0.0.0.0 instytutmed.pl
 0.0.0.0 instytut-pomocy.pl
@@ -363,13 +356,11 @@
 0.0.0.0 ipzd.pl
 0.0.0.0 irpol24.pl
 0.0.0.0 iv24.pl
-0.0.0.0 iwcollege.com
 0.0.0.0 i-cda.pl
 0.0.0.0 i-mobi.pl
 0.0.0.0 i-store365.com
 0.0.0.0 jacketspolska.cn
 0.0.0.0 jakpodrywacnatinderze.pl
-0.0.0.0 jetparty.net
 0.0.0.0 jordenmadsen.com
 0.0.0.0 jump.ogtrk.net
 0.0.0.0 jumpers.mobi
@@ -407,6 +398,7 @@
 0.0.0.0 leadmy.pl
 0.0.0.0 leadn.pl
 0.0.0.0 leadzu.com
+0.0.0.0 legitstore.pl
 0.0.0.0 liczbawiadomosci.pl
 0.0.0.0 life-star.pl
 0.0.0.0 ling.expert
@@ -427,15 +419,15 @@
 0.0.0.0 maendo.tv
 0.0.0.0 magictrends.com.pl
 0.0.0.0 magiskmanager.com
-0.0.0.0 magviz-secondsz.com
 0.0.0.0 mamkase.pl
 0.0.0.0 marekporwol.pl
 0.0.0.0 mariuszpelczarski.pl
+0.0.0.0 marketpremium.pl
 0.0.0.0 martdiamonds.pl
 0.0.0.0 masenkotrkr.com
-0.0.0.0 mazowieckiecentrummedyczne.pl
 0.0.0.0 mediaekspert24.pl
 0.0.0.0 mediamax.in.net
+0.0.0.0 mediasam.net
 0.0.0.0 medicreporters.com
 0.0.0.0 megadownloader.co
 0.0.0.0 megazakupy.net
@@ -455,7 +447,6 @@
 0.0.0.0 mojadietanamase.pl
 0.0.0.0 mojeklocki.com
 0.0.0.0 mojepc.net
-0.0.0.0 mojepvpweryfikacja.tk
 0.0.0.0 mojezakupy.net
 0.0.0.0 moje-iq.pl
 0.0.0.0 mon.trackmysales.website
@@ -467,7 +458,6 @@
 0.0.0.0 moviestarplanet-haki-i-kody.crazylife.pl
 0.0.0.0 msphacks.net
 0.0.0.0 myacn.eu
-0.0.0.0 mydascoin.pl
 0.0.0.0 mylocker.pl
 0.0.0.0 myway.com
 0.0.0.0 najlepszenarynku.pl
@@ -476,7 +466,6 @@
 0.0.0.0 namierzanie-telefonu.pl
 0.0.0.0 namierz-telefon.com.pl
 0.0.0.0 napraw-laptopa.waw.pl
-0.0.0.0 napraw-swojego-laptopa.pl
 0.0.0.0 nasdacoin.io
 0.0.0.0 nastim.pl
 0.0.0.0 naszasa.pl
@@ -497,17 +486,18 @@
 0.0.0.0 notifyday.com
 0.0.0.0 novumedical.pl
 0.0.0.0 nowaupadlosc.pl
+0.0.0.0 nubiton.pl
 0.0.0.0 nyctrk.com
 0.0.0.0 obos-ankiety.pl
 0.0.0.0 odbierzdarmowedoladowanie.wordpress.com
 0.0.0.0 odchudzaniezpasja.pl
 0.0.0.0 odkryjfb.pl
 0.0.0.0 odlootowy.pl
-0.0.0.0 oferta4you.com.pl
 0.0.0.0 offerzone.click
 0.0.0.0 ogladaj.online
 0.0.0.0 ogladamy24.pl
 0.0.0.0 okazyjnie.net
+0.0.0.0 olympus-markets.com
 0.0.0.0 onecoin.eu
 0.0.0.0 online.pro
 0.0.0.0 onlineappcheats.com
@@ -518,8 +508,8 @@
 0.0.0.0 oszukacruletke.like.pl
 0.0.0.0 outletto24.com
 0.0.0.0 paifemouchoa.com
-0.0.0.0 xn--pandorabiuteria-qkd.pl
 0.0.0.0 papla.pl
+0.0.0.0 pato.pl
 0.0.0.0 patterntrader.biz
 0.0.0.0 pcmban.com
 0.0.0.0 pcspeedup.com
@@ -554,9 +544,9 @@
 0.0.0.0 pobraniowo.pl
 0.0.0.0 pogotowiekomputerowe.net
 0.0.0.0 pogotowie-komputerowe24h.warszawa.pl
-0.0.0.0 pogotowie-komputerowe-warszawa.com.pl
 0.0.0.0 poland.fizzyslim.biz
 0.0.0.0 polska-tv.pl
+0.0.0.0 polskifilm.com.pl
 0.0.0.0 pol.boobs-xl.com
 0.0.0.0 pomocnapozyczka.pro
 0.0.0.0 powerfactorsaver.com
@@ -572,6 +562,7 @@
 0.0.0.0 xn--poyczaj-xwb.online.pl
 0.0.0.0 pracowniaciala.pl
 0.0.0.0 prawdziwyrozwoj.pl
+0.0.0.0 premium.ihuh.pl
 0.0.0.0 premiumlinkgenerator.online
 0.0.0.0 premium-offers.space
 0.0.0.0 prime-management-ltd.com
@@ -607,7 +598,6 @@
 0.0.0.0 randki-sex.com
 0.0.0.0 rapideo.pw
 0.0.0.0 ratujlaptopa.pl
-0.0.0.0 ratuj-swojego-laptopa.pl
 0.0.0.0 rbxfree.com
 0.0.0.0 realgift.men
 0.0.0.0 real-app.date
@@ -631,19 +621,21 @@
 0.0.0.0 ruletka-systemy.com
 0.0.0.0 rzetelna-pozyczka.pl
 0.0.0.0 s9kkremkr0.com
+0.0.0.0 sadman2.agency
 0.0.0.0 sales-express.eu
 0.0.0.0 sc21.pl
 0.0.0.0 seans24.com.pl
 0.0.0.0 seanse24.pl
+0.0.0.0 sendspace.pl
 0.0.0.0 sendspace.pw
 0.0.0.0 senoctis.pl
 0.0.0.0 serendipitygalenite.club
+0.0.0.0 seriale24.com.pl
 0.0.0.0 serialefilmy.pl
 0.0.0.0 serwis.kb.help
 0.0.0.0 serwislaptopowwarszawa.com.pl
 0.0.0.0 serwis-laptopow.warszawa.pl
 0.0.0.0 serwis-laptopow24.pl
-0.0.0.0 serwis-laptopow-powisle.pl
 0.0.0.0 shiporama.com
 0.0.0.0 shoegallery.com.pl
 0.0.0.0 shopsneakers.pl
@@ -681,6 +673,7 @@
 0.0.0.0 szaloneupusty.pl
 0.0.0.0 szamponrevita.pl
 0.0.0.0 szczesliwagotowka.pl
+0.0.0.0 szoping.net
 0.0.0.0 szybkanaukapro.pl
 0.0.0.0 szybkapozyczkateraz.pl
 0.0.0.0 szybka-pozyczka.com
@@ -705,6 +698,7 @@
 0.0.0.0 tilido.com
 0.0.0.0 tniemyceny.net
 0.0.0.0 topseans.pl
+0.0.0.0 topshoes24.pl
 0.0.0.0 torrenty--org.pl
 0.0.0.0 track.adsfast.com
 0.0.0.0 trackgsm.co.uk
@@ -731,7 +725,6 @@
 0.0.0.0 urwijnagrody.pl
 0.0.0.0 usa.cc
 0.0.0.0 usunwirusa.pl
-0.0.0.0 vanssk8hi.pl
 0.0.0.0 vapormax.pl
 0.0.0.0 vasco-group.eu
 0.0.0.0 vegatestsklep.pl
@@ -754,7 +747,6 @@
 0.0.0.0 vseobuch.ru
 0.0.0.0 w2mobile.com
 0.0.0.0 w65.pl
-0.0.0.0 walentynkowyprezent.pl
 0.0.0.0 warszawski-serwis-laptopow.warszawa.pl
 0.0.0.0 web-online.pl
 0.0.0.0 wellstar-company.com
@@ -764,14 +756,15 @@
 0.0.0.0 wielkaniespodzianka.pl
 0.0.0.0 wielkopolskie.refundacjeregionalne.pl
 0.0.0.0 wifiprotector.com
-0.0.0.0 wirtualna-polska.site
 0.0.0.0 wirtuozseksu.pl
-0.0.0.0 wizjatv-kody.pl
+0.0.0.0 wisebanc.com
+0.0.0.0 wojciechrudzki.pl
 0.0.0.0 wooptrk.com
 0.0.0.0 workwolf.pl
 0.0.0.0 worldinfoclub.com
 0.0.0.0 worldoftankscheats.com
 0.0.0.0 wraplo.pl
+0.0.0.0 wszystkododomu.net 
 0.0.0.0 www.a1a.pl
 0.0.0.0 www.act.poznan.pl
 0.0.0.0 www.adidasbuty.pl
@@ -952,6 +945,7 @@
 0.0.0.0 xbox1emulator.org
 0.0.0.0 xbox360emulator.com
 0.0.0.0 xmlgrab.com
+0.0.0.0 xn--pandorabiuteria-qkd.pl
 0.0.0.0 xtrak.me
 0.0.0.0 yotafiles.com
 0.0.0.0 yourebook.pl
@@ -959,9 +953,11 @@
 0.0.0.0 yourpayment.online
 0.0.0.0 yourperlebleue.com
 0.0.0.0 yummymobile.pl
+0.0.0.0 zakupeo.com
 0.0.0.0 zakupyagd.net
 0.0.0.0 zakupymax.net
 0.0.0.0 zalukajfilmy.pl
+0.0.0.0 zapraszamybowarto.pl
 0.0.0.0 zarabiaj-dzis.pl
 0.0.0.0 zarabianiefb.club
 0.0.0.0 zastrzyk-gotowki.waw.pl
@@ -972,7 +968,6 @@
 0.0.0.0 znajdz-numer.pl
 0.0.0.0 zobacz24.pl
 0.0.0.0 zoomica.pl
-0.0.0.0 zostan-zwyciezca.com
 0.0.0.0 zukiewicz.com
 0.0.0.0 zyski-z-innowacji.pl
 #
@@ -1003,7 +998,6 @@
 0.0.0.0 go2cloud.org
 0.0.0.0 grynanecie.pl
 0.0.0.0 liin.ml
-0.0.0.0 livedownloadnet.pl
 0.0.0.0 localmeets.club
 0.0.0.0 mobile-redirection.com
 0.0.0.0 mobstarr.com
@@ -1026,7 +1020,6 @@
 0.0.0.0 schington.com
 0.0.0.0 skroc-link.ga
 0.0.0.0 sm4ll.in
-0.0.0.0 stream-online.com.pl
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 t1ny.in
 0.0.0.0 tr.spinwin.fun
@@ -1177,15 +1170,19 @@
 0.0.0.0 appiq.mobi
 0.0.0.0 apple.com-care-macbook-system.live
 0.0.0.0 apple.com-improve-macos.live
+0.0.0.0 apple.com-macos-clean-systems.live
+0.0.0.0 apple.com-repair.live
 0.0.0.0 apple.com-repair-macbook.live
 0.0.0.0 apple.com-repair-os.live
 0.0.0.0 apple.com-speedup-macbook.live
 0.0.0.0 apple.com-speedup-macos.live
+0.0.0.0 apple.com-speed-macos.live
 0.0.0.0 appsdorado.com
 0.0.0.0 astrocash.org
 0.0.0.0 bazafilmowa.org
 0.0.0.0 beka.pl
 0.0.0.0 bemydate.mobi
+0.0.0.0 bigbigabum4.live
 0.0.0.0 bonypodarunkowe.com.pl
 0.0.0.0 bramka-sms-za-darmo.pl
 0.0.0.0 buz2mobile.com
@@ -1193,6 +1190,7 @@
 0.0.0.0 carambaba.com
 0.0.0.0 catsplit.com
 0.0.0.0 centrumplay.pl
+0.0.0.0 check-prizes-now2.life
 0.0.0.0 chomik24.com.pl
 0.0.0.0 chomik-24.pl
 0.0.0.0 chron-telefon.com
@@ -1202,9 +1200,6 @@
 0.0.0.0 darmowetesty.com
 0.0.0.0 darmowe-doladowania.net.pl
 0.0.0.0 darmowe-doladowanie.pl
-0.0.0.0 datasmierci.pl
-0.0.0.0 deadwalking.tv
-0.0.0.0 discfile.pl
 0.0.0.0 dobreprogramy.pro
 0.0.0.0 dobre-programy.xyz
 0.0.0.0 doladowania-telefonu.pl
@@ -1215,7 +1210,6 @@
 0.0.0.0 downfiles.pl
 0.0.0.0 downloadfiles.pl
 0.0.0.0 downloads-mobile.com
-0.0.0.0 download-24.pl
 0.0.0.0 easydownload.pl
 0.0.0.0 ebookeo.pl
 0.0.0.0 eforsa.pl
@@ -1267,12 +1261,14 @@
 0.0.0.0 futurepay.globway.eu
 0.0.0.0 getfilesfrom.net
 0.0.0.0 getgamecheats.com
+0.0.0.0 gift19.club
 0.0.0.0 giftsofsnowdown.com
 0.0.0.0 gigup.net
 0.0.0.0 giveskincs.nd.pl
 0.0.0.0 globile.co
 0.0.0.0 gogameportal.com
 0.0.0.0 hackerbot.net
+0.0.0.0 harddayforall4.life
 0.0.0.0 hdseriale.pl
 0.0.0.0 hitfilm.pl
 0.0.0.0 host1.5v.pl
@@ -1282,12 +1278,13 @@
 0.0.0.0 hothub.pl
 0.0.0.0 hotprizes.pl
 0.0.0.0 hwww.zweryfiikujdane.tk
-0.0.0.0 i4you.pl
 0.0.0.0 ilovemobi.com
 0.0.0.0 instantdownloadsz.com
-0.0.0.0 iq-testuj.pl
+0.0.0.0 interia-token.pl
+0.0.0.0 interia-zabezpieczenia.pl
 0.0.0.0 islandmob.com
 0.0.0.0 i-chomik.pl
+0.0.0.0 i-chomikuj.pl
 0.0.0.0 i-podgladacz.pl
 0.0.0.0 jamba.pl
 0.0.0.0 jamster.pl
@@ -1307,6 +1304,7 @@
 0.0.0.0 looool.pl
 0.0.0.0 losowa-gra.pl
 0.0.0.0 m.smsquiz.pl
+0.0.0.0 maccleaner3.r.worldssl.net
 0.0.0.0 magadownloader.com
 0.0.0.0 max-host.pl
 0.0.0.0 mediafile.pl
@@ -1321,7 +1319,6 @@
 0.0.0.0 momoxxio.com
 0.0.0.0 moviestarplanethackers.co
 0.0.0.0 msphack.com.pl
-0.0.0.0 msphack.pl
 0.0.0.0 msphackonline.com
 0.0.0.0 multico.5v.pl
 0.0.0.0 mundialove.pl
@@ -1371,6 +1368,7 @@
 0.0.0.0 pobierz123.pl
 0.0.0.0 pobierzgo.pl
 0.0.0.0 pobierzpliki.pl
+0.0.0.0 pod004.site
 0.0.0.0 pole-henny.com
 0.0.0.0 pornmania.pl
 0.0.0.0 profbhack.com
@@ -1380,10 +1378,9 @@
 0.0.0.0 ptgame.eu
 0.0.0.0 qubble.com
 0.0.0.0 quiz-fun.com.my
-0.0.0.0 rapid-host.pl
 0.0.0.0 rap-share.pl
-0.0.0.0 regme.pl
 0.0.0.0 restricted.pl
+0.0.0.0 reward2496.harddayforall9.icu
 0.0.0.0 rzeczyzadarmo.pl
 0.0.0.0 searchrapid.pl
 0.0.0.0 secure4app.com
@@ -1406,7 +1403,6 @@
 0.0.0.0 steamco.de
 0.0.0.0 steam-wallet-gifts.com
 0.0.0.0 steam-wallet-money.com
-0.0.0.0 stream24.com.pl
 0.0.0.0 streamgo.pl
 0.0.0.0 streamuj.org
 0.0.0.0 superserwisy.pl
@@ -1417,10 +1413,12 @@
 0.0.0.0 tinyfilehost.com
 0.0.0.0 tinyfileshost.com
 0.0.0.0 todolize.com
+0.0.0.0 token-interia.pl
 0.0.0.0 tradeit.cash
 0.0.0.0 trafisz.com
 0.0.0.0 transmisje24.net
 0.0.0.0 truegamers.ga
+0.0.0.0 tvnewtop.pro
 0.0.0.0 tv-internetowa.pl
 0.0.0.0 twojeartykuly.com
 0.0.0.0 ulink.pl
@@ -1428,23 +1426,22 @@
 0.0.0.0 upshare.org
 0.0.0.0 uzupelniajdane.ga
 0.0.0.0 uzupelniajdane.gq
-0.0.0.0 videon.com.pl
 0.0.0.0 videorazr.com
 0.0.0.0 videoway.net
 0.0.0.0 vidnet.pl
 0.0.0.0 vidplayer.pl
-0.0.0.0 vids24.pl
 0.0.0.0 vimeoo.net
 0.0.0.0 vod24.pl
 0.0.0.0 wapster.malutki.pl
 0.0.0.0 wapster.pl
 0.0.0.0 weryfikacjadanych.ml
 0.0.0.0 weryfikacjadanych.tk
+0.0.0.0 whoisyourd15.live
+0.0.0.0 whoisyourd34.icu
 0.0.0.0 wiadomosci-onet24.ml
 0.0.0.0 wiadomosci-onet24.pl
 0.0.0.0 wiadomosci-onet24.tk
 0.0.0.0 wiadomosci-tv24-onet.eu
-0.0.0.0 wiarygodnafirma24.pl
 0.0.0.0 widget-eforsa.pl
 0.0.0.0 www.doladowywacztel.pl
 0.0.0.0 www.gryjava.gsm.pl
@@ -1452,6 +1449,7 @@
 0.0.0.0 www.mobjmp.com
 0.0.0.0 www.softmania.pl
 0.0.0.0 www.wykreslanka.com.pl
+0.0.0.0 www-apple-com-virus-removal-systems.fixingit.solutions
 0.0.0.0 www.7218.pl
 0.0.0.0 www.72933.pl
 0.0.0.0 www.darmowe-wrozby.com
@@ -1467,13 +1465,12 @@
 0.0.0.0 yuppipuppy.com
 0.0.0.0 za10groszy.pl
 0.0.0.0 zalukaj-online.pl
+0.0.0.0 zarabativaisazartom.net
 0.0.0.0 zarabiajwsieci.5v.pl
-0.0.0.0 zarejestruj-sie.pl
 0.0.0.0 zasilkonto.cba.pl
 0.0.0.0 zasil-konto.tk
 0.0.0.0 zgarnij.net
 0.0.0.0 zgarnijplik.pl
-0.0.0.0 zmien-kolor.pl
 0.0.0.0 zumodi.com
 0.0.0.0 zweryfiikujdane.tk
 0.0.0.0 zweryfikuj-sie.eu
@@ -1544,6 +1541,7 @@
 0.0.0.0 adsheads.go2affise.com
 0.0.0.0 aoc.teleaudio.pl
 0.0.0.0 api.myeforsa.pl
+0.0.0.0 app3555.bigbigabum4.live
 0.0.0.0 app8671.something-wrong5.agency
 0.0.0.0 bigbangads.go2cloud.org
 0.0.0.0 buzz.mobiapp-games.com
@@ -1561,12 +1559,14 @@
 0.0.0.0 fejsopodgladacz.blogspot.com
 0.0.0.0 fejs-colors.blogspot.com
 0.0.0.0 freeiqtest.blogspot.com
+0.0.0.0 game9346.sadman2.agency
 0.0.0.0 go.bestmobiworld.com
 0.0.0.0 gw.firesub.pl
 0.0.0.0 hc2izgmnmnqs.lwfjd.today
 0.0.0.0 hp.myway.com
 0.0.0.0 kaufland.gift-cards.co.pl
 0.0.0.0 m.pl.failmobile.net
+0.0.0.0 mobile0363.harddayforall4.life
 0.0.0.0 odzyskajsnapy.blogspot.com
 0.0.0.0 pakiety-lte-5gb.blogspot.com
 0.0.0.0 pakiety-pokemon-go.blogspot.com
@@ -1593,11 +1593,11 @@
 0.0.0.0 promotions.monthlywinners.com
 0.0.0.0 publisher.lead.network
 0.0.0.0 r.clube62.date
-0.0.0.0 store-red.zostan-zwyciezca.com
-0.0.0.0 supermarket.zostan-zwyciezca.com
+0.0.0.0 reward4071.whoisyourd34.icu
 0.0.0.0 sweeps3093.something-wrong9.agency
+0.0.0.0 sweeps9949.whoisyourd15.live
 0.0.0.0 thecryptogenius.com
-0.0.0.0 track.walentynkowyprezent.pl
+0.0.0.0 vpt58.tvnewtop.pro
 0.0.0.0 web.cellfun.mobi
 0.0.0.0 web.yuppipuppy.com
 0.0.0.0 ww7.openwrt.com
@@ -1628,6 +1628,7 @@
 0.0.0.0 www.poprof.com
 0.0.0.0 www.pracowniaciala.pl
 0.0.0.0 www.prooexpert.com
+0.0.0.0 www.sendspace.pl
 0.0.0.0 www.specjalniedlaciebie.com
 0.0.0.0 www.spreadyourtentacles.com
 0.0.0.0 www.szczesliwydzien.com
@@ -1635,9 +1636,11 @@
 0.0.0.0 www.verifycaptcha.com
 0.0.0.0 www.apple.com-care-macbook-system.live
 0.0.0.0 www.apple.com-improve-macos.live
+0.0.0.0 www.apple.com-repair.live
 0.0.0.0 www.apple.com-repair-macbook.live
 0.0.0.0 www.apple.com-speedup-macbook.live
 0.0.0.0 www.apple.com-speedup-macos.live
+0.0.0.0 www.apple.com-speed-macos.live
 0.0.0.0 www.bit-coin-trader.com
 0.0.0.0 www.bramka-sms-za-darmo.pl
 0.0.0.0 www.dofinansowania-jezykowe.pl
